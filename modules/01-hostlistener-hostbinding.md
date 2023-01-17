@@ -1,8 +1,8 @@
-# Module 01- Hostbinding and Hostlistener
+# Module 01- HostBinding and HostListener
 
 ## DEMOS
 
-- Stackblitz - [Hostbinding and Hostlistener](https://stackblitz.com/edit/angular-ivy-fbslkz)
+- StackBlitz - [HostBinding and Hostlistener](https://stackblitz.com/edit/angular-ivy-fbslkz)
 
 
 ## Training

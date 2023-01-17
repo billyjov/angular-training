@@ -1,6 +1,6 @@
 # Angular Training material
 
 
-- Module 1: [Hostbinding and Hostlistener](./modules/module-01.md)
+- Module 1: [HostBinding and HostListener](./modules/01-hostlistener-hostbinding.md)
 
 
