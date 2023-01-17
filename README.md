@@ -1,2 +1,6 @@
-# angular-training
-Material my angular training workshops
+# Angular Training material
+
+
+- Module 1: [Hostbinding and Hostlistener](./modules/module-01.md)
+
+
