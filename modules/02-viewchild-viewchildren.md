@@ -6,6 +6,8 @@
 
 ## Training
 
+---
+
 ### Training 1: Using `@ViewChildren` to access a child elements
 
 Create a component _HobbyComponent_ that uses `@ViewChildren` to access
@@ -24,7 +26,7 @@ button to update the value of all text inputs.
 
 ### BONUS: Combine `@ViewChild` and `@ViewChildren` to access a childs elements
 
-Create a component that represents a dynamic form with multiple input 
+Create a component that represents a dynamic form with multiple input
 fields (_text, radio, checkbox, select, etc._).
 
 Use `@ViewChildren` to access all input fields within the form so that you
@@ -67,3 +69,17 @@ that will be used to display the response message.
 **NOTE**: This exercise should give you a good understanding of how to use
 `@ViewChild` and `@ViewChildren` to access specific and multiple elements
 within a template, and how to use these elements to add functionality to a component.
+
+## 📰 Summary
+
+`@ViewChild` and `@ViewChildren` are Angular decorators that allow you to
+access and manipulate child elements within the template of a component.
+
+Some use cases:
+
+- Access the properties and methods of a child element, such as its value, text, or state.
+- Add event listeners to a child element, such as a button click or a form submission.
+- Update the properties and styles of a child element.
+- Manipulate the child elements in some way, for example, show or hide them
+- Help to validate the form input fields
+- Use the child elements to perform some logic or calculations
