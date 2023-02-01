@@ -34,7 +34,7 @@ clicked, changes the value of **bgColor** to a random color
 
 - Create a new Angular directive called **FancyTabs**
 - Use the `@Directive` decorator to apply the directive to the `nav` elements with a specific CSS class in the application
-- Use the `@ViewChildren` decorator to get access to all the `a` elements inside the host element
+- Use the `@ViewChildren` decorator  or other Angular techniques like `ElementRef` to get access to all the `a` elements inside the host element
 - Add a property called _activeTab_ to the directive with a default value of _0_
 - Use the `@HostListener` decorator to listen for the `click` event on the `a` elements. In the event handler function, set the _activeTab_ property to the index of the clicked element
 - Use the `@HostBinding` decorator to bind the _activeTab_ property to the _border-bottom_ property of the host element. When _activeTab_ is set to a specific index, the border-bottom of the corresponding `a` element should be `2px solid purple`
