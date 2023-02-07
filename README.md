@@ -5,4 +5,5 @@
 
 - 2- [@ViewChild and @ViewChildren](./modules/02-viewchild-viewchildren.md)
 
+- 3- [JS Promise vs RxJS Observables](./modules/03-JS-promise-vs-RxJS-Observables.md)
 
