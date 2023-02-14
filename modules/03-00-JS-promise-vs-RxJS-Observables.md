@@ -1,4 +1,4 @@
-# Module-3: JavaScript `Promises` vs RxJS `Obserables`
+# Module-3-00: JavaScript `Promises` vs RxJS `Obserables`
 
 ## DEMOS
 
