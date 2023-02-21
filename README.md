@@ -9,3 +9,5 @@
 
 - 03-01 [RxJS Observables](./modules/03-01-RxJS-Observables.md)
 
+- 03-02 [RxJS Operators](./modules/03-02-RxJS-Operators.md)
+
