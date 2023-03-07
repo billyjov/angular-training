@@ -11,3 +11,5 @@
 
 - 03-02 [RxJS Operators](./modules/03-02-RxJS-Operators.md)
 
+- 03-03 [RxJS Error Handling](./modules/03-03-RxJS-Error-Handling.md)
+
