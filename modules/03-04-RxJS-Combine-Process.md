@@ -1,4 +1,4 @@
-# Module 03-04: RxJS combination 
+# Module 03-04: RxJS combination `combineLatest`, `withLatestFrom` and `forkJoin` and introduction to `concatMap`, `mergeMap` and `switchMap`
 
 ## DEMOS
 
