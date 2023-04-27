@@ -17,3 +17,5 @@
 
 - 03-05 [RxJS Higher Order Observable](./modules/03-05-RxJS-Higher-Order-Observable.md)
 
+- 03-06 [RxJS Subjects](./modules/03-06-RxJS-Subjects.md)
+
