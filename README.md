@@ -19,3 +19,5 @@
 
 - 03-06 [RxJS Subjects](./modules/03-06-RxJS-Subjects.md)
 
+- 04 [Change Detection](./modules/04-change-detection.md)
+
