@@ -11,7 +11,8 @@ import { Task } from '../shared/models/task.model';
   styleUrls: ['./list-a.component.css']
 })
 export class ListAComponent implements OnInit {
-  public tasks$: Observable<Task[]> = this.tasksService.tasks$;
+  public tasks$: Observable<Task[]> = this.tasksService.getAllTasks();
+  // public tasks$: Observable<Task[]> = this.tasksService.tasks$;
   // public tasks$: Observable<Task[]> = this.tasksService.getTasks();
 
   constructor(private tasksService: TasksService) { }

@@ -9,7 +9,8 @@ import { TasksService } from '../tasks.service';
   styleUrls: ['./list-b.component.css'],
 })
 export class ListBComponent implements OnInit {
-  public tasks$: Observable<Task[]> = this.tasksService.tasks$;
+  public tasks$: Observable<Task[]> = this.tasksService.getAllTasks();
+  // public tasks$: Observable<Task[]> = this.tasksService.tasks$;
   // public tasks$: Observable<Task[]> = this.tasksService.getTasks();
 
   constructor(private tasksService: TasksService) { }
